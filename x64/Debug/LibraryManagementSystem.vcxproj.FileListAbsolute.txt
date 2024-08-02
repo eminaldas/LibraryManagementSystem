@@ -1,0 +1,5 @@
+D:\Proje\kütüphane yönetim sistemi\ProjectLib\LibraryManagementSystem\x64\Debug\LibraryManagementSystem.exe
+C:\Users\Dell\Desktop\lib\LibraryManagementSystem\x64\Debug\LibraryManagementSystem.exe
+C:\Users\emina\OneDrive\Masaüstü\LibraryManagementSystem\LibraryManagementSystem\x64\Debug\LibraryManagementSystem.exe
+D:\Proje\kütüphane yönetim sistemi\ProjectLib\LibraryManagementSystem1\LibraryManagementSystem\x64\Debug\LibraryManagementSystem.exe
+D:\Proje\kütüphane yönetim sistemi\ProjectLib\LibraryManagementSystem1\Yeni klasör\x64\Debug\LibraryManagementSystem.exe

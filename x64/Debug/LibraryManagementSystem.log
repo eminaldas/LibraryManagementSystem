@@ -1,0 +1,19 @@
+﻿  Book.cpp
+D:\Proje\kütüphane yönetim sistemi\ProjectLib\LibraryManagementSystem1\Yeni klasör\Book.cpp(539,15): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  Dfa.cpp
+D:\Proje\kütüphane yönetim sistemi\ProjectLib\LibraryManagementSystem1\Yeni klasör\Dfa.cpp(4,11): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+D:\Proje\kütüphane yönetim sistemi\ProjectLib\LibraryManagementSystem1\Yeni klasör\Dfa.cpp(23,11): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+D:\Proje\kütüphane yönetim sistemi\ProjectLib\LibraryManagementSystem1\Yeni klasör\Dfa.cpp(24,11): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  Main.cpp
+  MainMenu.cpp
+D:\Proje\kütüphane yönetim sistemi\ProjectLib\LibraryManagementSystem1\Yeni klasör\MainMenu.cpp(411,1): warning C4102: 'label_choice': etiket başvurusu kaldırıldı
+  Manager.cpp
+D:\Proje\kütüphane yönetim sistemi\ProjectLib\LibraryManagementSystem1\Yeni klasör\Manager.cpp(17,16): warning C4244: 'bağımsız değişken': '__int64' - 'long' dönüşümü; veri kaybı olabilir
+  Member.cpp
+D:\Proje\kütüphane yönetim sistemi\ProjectLib\LibraryManagementSystem1\Yeni klasör\Member.cpp(17,16): warning C4244: 'bağımsız değişken': '__int64' - 'long' dönüşümü; veri kaybı olabilir
+  UserLogin.cpp
+D:\Proje\kütüphane yönetim sistemi\ProjectLib\LibraryManagementSystem1\Yeni klasör\UserLogin.cpp(303,30): warning C4244: 'bağımsız değişken': '__int64' - 'long' dönüşümü; veri kaybı olabilir
+D:\Proje\kütüphane yönetim sistemi\ProjectLib\LibraryManagementSystem1\Yeni klasör\UserLogin.cpp(309,18): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+D:\Proje\kütüphane yönetim sistemi\ProjectLib\LibraryManagementSystem1\Yeni klasör\UserLogin.cpp(383,30): warning C4244: 'bağımsız değişken': '__int64' - 'long' dönüşümü; veri kaybı olabilir
+  Kod Üretiliyor...
+  LibraryManagementSystem.vcxproj -> D:\Proje\kütüphane yönetim sistemi\ProjectLib\LibraryManagementSystem1\Yeni klasör\x64\Debug\LibraryManagementSystem.exe
